@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://i1.faceprep.in/prograd-junior/climate-change-bg.png");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    margin-top: 200px;
+}
+
+hr {
+    width: 10%;
+}
+
+h4 {
+    font-size: 120%;
+}
+
+iframe {
+    border: none;
+}
+
+.big-change {
+    background: transparent;
+    padding: 15px 20px;
+    color: white;
+    font-size: 120%;
+    border-radius: 30px;
+    margin: 50px;
+}
